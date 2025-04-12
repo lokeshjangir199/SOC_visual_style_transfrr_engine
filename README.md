@@ -1,11 +1,11 @@
 # SOC_visual_style_transfer_engine
-###Results-
+### Results-
 <p align="center">
-  <img src="assets/content_images/content_1.jpg" width="200"/>
+  <img src="assests/content_images/content_1.jpg" width="200"/>
   <b style="font-size: 24px;"> + </b>
-  <img src="assets/style_images/style_1.jpg" width="200"/>
+  <img src="assests/style_images/style_1.jpg" width="200"/>
   <b style="font-size: 24px;"> = </b>
-  <img src="assets/output_images/content1style1.png" width="200"/>
+  <img src="assests/output_images/content1style1.png" width="200"/>
 </p>
 
 
